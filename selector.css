@@ -1,0 +1,19 @@
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header{
+    height: 1000px;
+    background-image: url('img/download.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.blog{
+    margin: 20px;
+    border: 20px solid tomato;
+    box-shadow: 10px 10px 20px violet;
+}
+.second{
+    display: none;
+} 
